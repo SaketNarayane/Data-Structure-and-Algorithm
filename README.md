@@ -15,4 +15,4 @@ Sets,
 
 Graphs,
 
-Sorting algorithms, etc
+algorithms, etc
